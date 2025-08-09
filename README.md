@@ -68,7 +68,7 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/Dattatreya2791/Food-Delivary-Plotform.git
 cd react-food-delivery-platform
 ```
 
@@ -116,8 +116,8 @@ ZIP: Any 5 digits
 
 ## 📬 Contact
 
-**Satish Koppanathi**  
-📧 Email: satishkoppanathi2005@gmail.com  
+**DATTATREYA VAYILA**  
+📧 Email: dattatreya279@gmail.com  
 
 ---
 
